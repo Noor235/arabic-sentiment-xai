@@ -1,0 +1,3 @@
+model,accuracy
+Logistic Regression,0.7057112451223838
+SVM,0.7351543100390209
