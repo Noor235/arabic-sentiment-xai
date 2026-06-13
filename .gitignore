@@ -4,4 +4,6 @@ models/
 *.pkl
 .DS_Store
 venv/
-.venv/
+.venv/models/
+*.safetensors
+*.bin
